@@ -9,8 +9,6 @@ import MessageForm from './MessageForm';
 const EventContainer = subscribe({ topic: 'mqtt/event' })(_MessageContainer);
 const ConnectionStateContainer = subscribe({ topic: 'mqtt/connectionState' })(_ConnectionStateContainer);
 
-
-//deneme
 const App: React.FC = () => {
 
     return (
