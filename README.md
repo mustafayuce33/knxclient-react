@@ -7,4 +7,4 @@ Here is what you will make for usage :
 3. If you want to take a build for deploying then you have to run `npm run build`. This will create **/build** folder and you can use it for deploying.
 4. That's all
  
-Application will connect knx server via mqtt and view it.
+Application will connect knx server via mqtt and view knx data.
