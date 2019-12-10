@@ -1,4 +1,4 @@
-This client application is used for viewing knx data coming from knxServer.
+This client application is used for viewing knx data. It gets data from knx server that you can download it from <https://github.com/mustafayuce33/knxserver> 
 
 Here is what you will make for usage :
 
